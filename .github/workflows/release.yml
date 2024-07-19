@@ -22,18 +22,11 @@ jobs:
       with:
         python-version: 3.12
 
-    - name: Install Poetry
-      run: |
-        curl -sSL https://install.python-poetry.org | python3 -
-        echo "${HOME}/.local/bin" >> $GITHUB_PATH
-      shell: bash
-
     - name: Install dependencies
-      run: poetry install
+      run: pip install .
 
-    - name: Activate Poetry environment and build
+    - name: Build
       run: |
-        source $(poetry env info --path)/bin/activate
         python main.py build
       shell: bash
 
