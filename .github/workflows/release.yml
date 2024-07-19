@@ -31,9 +31,9 @@ jobs:
     - name: Install dependencies
       run: poetry install
 
-    - name: Activate Poetry shell and build
+    - name: Activate Poetry environment and build
       run: |
-        poetry shell
+        source $(poetry env info --path)/bin/activate
         python main.py build
       shell: bash
 
