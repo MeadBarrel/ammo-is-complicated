@@ -1,0 +1,3675 @@
+{
+    "frag grenade": {
+        "steel": 200,
+        "explosive compound": 100
+    },
+    "EMP grenade": {
+        "steel": 150
+    },
+    "12mm Railgun (Sabot)": {
+        "steel": 20,
+        "uranium": 50,
+        "brass": 10,
+        "powder": 5
+    },
+    "164x284mm demolition shell": {
+        "steel": 300,
+        "explosive compound": 200,
+        "brass": 50,
+        "powder": 20
+    },
+    "5x50mm Caseless (Sabot)": {
+        "steel": 5,
+        "uranium": 10,
+        "powder": 2
+    },
+    "8mm Railgun (Sabot)": {
+        "steel": 15,
+        "uranium": 30,
+        "brass": 8,
+        "powder": 4
+    },
+    "anti-materiel cartridge (FMJ)": {
+        "lead": 60,
+        "brass": 20,
+        "powder": 5
+    },
+    "anti-materiel cartridge (AP)": {
+        "lead": 50,
+        "steel": 20,
+        "brass": 20,
+        "powder": 5
+    },
+    "anti-materiel cartridge (AP-I)": {
+        "lead": 50,
+        "steel": 20,
+        "incendiary compound": 10,
+        "brass": 20,
+        "powder": 5
+    },
+    "anti-materiel cartridge (AP-HE)": {
+        "lead": 40,
+        "steel": 20,
+        "explosive compound": 20,
+        "brass": 20,
+        "powder": 5
+    },
+    "anti-materiel cartridge (Sabot)": {
+        "steel": 60,
+        "uranium": 20,
+        "brass": 20,
+        "powder": 5
+    },
+    "autocannon shell (AP)": {
+        "steel": 150,
+        "lead": 50,
+        "powder": 20
+    },
+    "autocannon shell (AP-I)": {
+        "steel": 150,
+        "lead": 50,
+        "incendiary compound": 20,
+        "powder": 20
+    },
+    "autocannon shell (AP-HE)": {
+        "steel": 130,
+        "lead": 40,
+        "explosive compound": 30,
+        "powder": 20
+    },
+    "autocannon shell (Sabot)": {
+        "steel": 150,
+        "uranium": 50,
+        "powder": 20
+    },
+    "launcher grenade (HE)": {
+        "steel": 150,
+        "explosive compound": 100
+    },
+    "launcher grenade (HE Time-Fuzed)": {
+        "steel": 150,
+        "explosive compound": 100
+    },
+    "launcher grenade (HEDP)": {
+        "steel": 150,
+        "explosive compound": 50,
+        "lead": 50
+    },
+    "launcher grenade (EMP)": {
+        "steel": 100
+    },
+    "launcher grenade (Smoke)": {
+        "steel": 100,
+        "smoke compound": 50
+    },
+    "pistol cartridge (FMJ)": {
+        "lead": 15,
+        "brass": 5,
+        "powder": 2
+    },
+    "pistol cartridge (AP)": {
+        "lead": 10,
+        "steel": 5,
+        "brass": 5,
+        "powder": 2
+    },
+    "pistol cartridge (HP)": {
+        "lead": 15,
+        "brass": 5,
+        "powder": 2
+    },
+    "magnum pistol cartridge (FMJ)": {
+        "lead": 20,
+        "brass": 5,
+        "powder": 2
+    },
+    "magnum pistol cartridge (AP)": {
+        "lead": 15,
+        "steel": 5,
+        "brass": 5,
+        "powder": 2
+    },
+    "magnum pistol cartridge (HP)": {
+        "lead": 20,
+        "brass": 5,
+        "powder": 2
+    },
+    "rifle cartridge (FMJ)": {
+        "lead": 25,
+        "brass": 10,
+        "powder": 5
+    },
+    "rifle cartridge (AP)": {
+        "lead": 20,
+        "steel": 10,
+        "brass": 10,
+        "powder": 5
+    },
+    "rifle cartridge (HP)": {
+        "lead": 25,
+        "brass": 10,
+        "powder": 5
+    },
+    "rifle cartridge (AP-I)": {
+        "lead": 20,
+        "steel": 10,
+        "incendiary compound": 5,
+        "brass": 10,
+        "powder": 5
+    },
+    "rifle cartridge (AP-HE)": {
+        "lead": 15,
+        "steel": 10,
+        "explosive compound": 10,
+        "brass": 10,
+        "powder": 5
+    },
+    "rifle cartridge (Sabot)": {
+        "steel": 20,
+        "uranium": 15,
+        "brass": 10,
+        "powder": 5
+    },
+    "intermediate rifle cartridge (FMJ)": {
+        "lead": 20,
+        "brass": 8,
+        "powder": 4
+    },
+    "intermediate rifle cartridge (AP)": {
+        "lead": 15,
+        "steel": 8,
+        "brass": 8,
+        "powder": 4
+    },
+    "intermediate rifle cartridge (HP)": {
+        "lead": 20,
+        "brass": 8,
+        "powder": 4
+    },
+    "intermediate rifle cartridge (AP-I)": {
+        "lead": 15,
+        "steel": 8,
+        "incendiary compound": 5,
+        "brass": 8,
+        "powder": 4
+    },
+    "intermediate rifle cartridge (AP-HE)": {
+        "lead": 10,
+        "steel": 8,
+        "explosive compound": 8,
+        "brass": 8,
+        "powder": 4
+    },
+    "intermediate rifle cartridge (Sabot)": {
+        "steel": 15,
+        "uranium": 10,
+        "brass": 8,
+        "powder": 4
+    },
+    "magnum rifle cartridge (FMJ)": {
+        "lead": 35,
+        "brass": 12,
+        "powder": 6
+    },
+    "magnum rifle cartridge (AP)": {
+        "lead": 30,
+        "steel": 12,
+        "brass": 12,
+        "powder": 6
+    },
+    "magnum rifle cartridge (AP-I)": {
+        "lead": 30,
+        "steel": 12,
+        "incendiary compound": 10,
+        "brass": 12,
+        "powder": 6
+    },
+    "magnum rifle cartridge (AP-HE)": {
+        "lead": 25,
+        "steel": 12,
+        "explosive compound": 15,
+        "brass": 12,
+        "powder": 6
+    },
+    "magnum rifle cartridge (Sabot)": {
+        "steel": 35,
+        "uranium": 20,
+        "brass": 12,
+        "powder": 6
+    },
+    "light cannon shell (AP)": {
+        "steel": 250,
+        "lead": 100,
+        "powder": 40
+    },
+    "light cannon shell (HE)": {
+        "steel": 200,
+        "explosive compound": 150,
+        "powder": 40
+    },
+    "light cannon shell (HE Time Fuzed)": {
+        "steel": 200,
+        "explosive compound": 150,
+        "powder": 40
+    },
+    "light cannon shell (Sabot)": {
+        "steel": 250,
+        "uranium": 100,
+        "powder": 40
+    },
+    "heavy cannon shell (HEAT)": {
+        "steel": 500,
+        "explosive compound": 300,
+        "powder": 50
+    },
+    "heavy cannon shell (AP)": {
+        "steel": 500,
+        "lead": 200,
+        "powder": 50
+    },
+    "heavy cannon shell (HE)": {
+        "steel": 450,
+        "explosive compound": 300,
+        "powder": 50
+    },
+    "heavy cannon shell (HE Time-Fuzed)": {
+        "steel": 450,
+        "explosive compound": 300,
+        "powder": 50
+    },
+    "heavy cannon shell (APCR)": {
+        "steel": 500,
+        "lead": 200,
+        "powder": 50
+    },
+    "heavy cannon shell (EMP)": {
+        "steel": 450
+    },
+    "shotgun shell (Buck)": {
+        "lead": 30,
+        "brass": 10,
+        "powder": 4
+    },
+    "shotgun shell (Slug)": {
+        "lead": 35,
+        "brass": 10,
+        "powder": 4
+    },
+    "shotgun shell (Bean)": {
+        "lead": 25,
+        "brass": 10,
+        "powder": 4
+    },
+    "shotgun shell (EMP)": {
+        "brass": 15
+    },
+    "20x42mm (AP)": {
+        "lead": 10,
+        "steel": 10,
+        "brass": 5,
+        "powder": 2
+    },
+    "20x42mm (AP-I)": {
+        "lead": 10,
+        "steel": 10,
+        "incendiary compound": 5,
+        "brass": 5,
+        "powder": 2
+    },
+    "20x42mm (AP-HE)": {
+        "lead": 10,
+        "steel": 10,
+        "explosive compound": 8,
+        "brass": 5,
+        "powder": 2
+    },
+    "20x42mm grenade (HE)": {
+        "steel": 30,
+        "explosive compound": 15
+    },
+    "20x42mm grenade (EMP)": {
+        "steel": 25
+    },
+    "20x42mm grenade (Smoke)": {
+        "steel": 20,
+        "smoke compound": 15
+    },
+    "25x40mm grenade (HE)": {
+        "steel": 35,
+        "explosive compound": 20
+    },
+    "25x40mm grenade (HE Time-Fuzed)": {
+        "steel": 35,
+        "explosive compound": 20
+    },
+    "25x40mm grenade (EMP)": {
+        "steel": 30
+    },
+    "25x40mm grenade (Smoke)": {
+        "steel": 25,
+        "smoke compound": 20
+    },
+    "25x59mm grenade (HE)": {
+        "steel": 40,
+        "explosive compound": 25
+    },
+    "25x59mm grenade (HE Time-Fuzed)": {
+        "steel": 40,
+        "explosive compound": 25
+    },
+    "25x59mm grenade (HEDP)": {
+        "steel": 40,
+        "explosive compound": 20,
+        "lead": 20
+    },
+    "25x59mm grenade (EMP)": {
+        "steel": 35
+    },
+    "25x59mm grenade (Smoke)": {
+        "steel": 30,
+        "smoke compound": 20
+    },
+    "30x29mm grenade (HE)": {
+        "steel": 50,
+        "explosive compound": 30
+    },
+    "30x29mm grenade (HE Time-Fuzed)": {
+        "steel": 50,
+        "explosive compound": 30
+    },
+    "30x29mm grenade (HEDP)": {
+        "steel": 50,
+        "explosive compound": 25,
+        "lead": 25
+    },
+    "30x29mm grenade (EMP)": {
+        "steel": 45
+    },
+    "30x29mm grenade (Smoke)": {
+        "steel": 40,
+        "smoke compound": 25
+    },
+    "35x32mmSR grenade (HE)": {
+        "steel": 60,
+        "explosive compound": 35
+    },
+    "35x32mmSR grenade (HEDP)": {
+        "steel": 60,
+        "explosive compound": 30,
+        "lead": 30
+    },
+    "35x32mmSR grenade (EMP)": {
+        "steel": 55
+    },
+    "35x32mmSR grenade (Smoke)": {
+        "steel": 50,
+        "smoke compound": 30
+    },
+    "40x46mm grenade (HE)": {
+        "steel": 70,
+        "explosive compound": 40
+    },
+    "40x46mm grenade (HE Time-Fuzed)": {
+        "steel": 70,
+        "explosive compound": 40
+    },
+    "40x46mm grenade (HEDP)": {
+        "steel": 70,
+        "explosive compound": 35,
+        "lead": 35
+    },
+    "40x46mm grenade (EMP)": {
+        "steel": 65
+    },
+    "40x46mm grenade (Smoke)": {
+        "steel": 60,
+        "smoke compound": 40
+    },
+    "40x46mm grenade (Tox)": {
+        "steel": 70,
+        "explosive compound": 35,
+        "firefoam compound": 35
+    },
+    "40x47mm grenade (HE)": {
+        "steel": 75,
+        "explosive compound": 45
+    },
+    "40x47mm grenade (EMP)": {
+        "steel": 70
+    },
+    "40x47mm grenade (Smoke)": {
+        "steel": 65,
+        "smoke compound": 45
+    },
+    "40x53mm grenade (HE)": {
+        "steel": 80,
+        "explosive compound": 50
+    },
+    "40x53mm grenade (HE Time-Fuzed)": {
+        "steel": 80,
+        "explosive compound": 50
+    },
+    "40x53mm grenade (HEDP)": {
+        "steel": 80,
+        "explosive compound": 45,
+        "lead": 45
+    },
+    "40x53mm grenade (EMP)": {
+        "steel": 75
+    },
+    "40x53mm grenade (Smoke)": {
+        "steel": 70,
+        "smoke compound": 50
+    },
+    "40x53mm VOG-25 grenade (HE)": {
+        "steel": 90,
+        "explosive compound": 55
+    },
+    "40x53mm VOG-25 grenade (HE Time-Fuzed)": {
+        "steel": 90,
+        "explosive compound": 55
+    },
+    "40x53mm VOG-25 grenade (EMP)": {
+        "steel": 85
+    },
+    "40x53mm VOG-25 grenade (Smoke)": {
+        "steel": 80,
+        "smoke compound": 55
+    },
+    "50mm GO-SO grenade (HE)": {
+        "steel": 100,
+        "explosive compound": 60
+    },
+    "50mm EM-50 grenade (EMP)": {
+        "steel": 95
+    },
+    "50mm GS50 grenade (Smoke)": {
+        "steel": 90,
+        "smoke compound": 60
+    },
+    "83mm PIAT grenade (HEAT)": {
+        "steel": 200,
+        "explosive compound": 100,
+        "powder": 20
+    },
+    "83mm PIAT grenade (HE)": {
+        "steel": 180,
+        "explosive compound": 120,
+        "powder": 20
+    },
+    "83mm PIAT grenade (EMP)": {
+        "steel": 170
+    },
+    "12.7x108mm (FMJ)": {
+        "lead": 50,
+        "brass": 20,
+        "powder": 8
+    },
+    "12.7x108mm (AP)": {
+        "lead": 40,
+        "steel": 20,
+        "brass": 20,
+        "powder": 8
+    },
+    "12.7x108mm (AP-I)": {
+        "lead": 40,
+        "steel": 20,
+        "incendiary compound": 10,
+        "brass": 20,
+        "powder": 8
+    },
+    "12.7x108mm (AP-HE)": {
+        "lead": 35,
+        "steel": 20,
+        "explosive compound": 15,
+        "brass": 20,
+        "powder": 8
+    },
+    "12.7x108mm (Sabot)": {
+        "steel": 50,
+        "uranium": 20,
+        "brass": 20,
+        "powder": 8
+    },
+    "13.2x92mmSR TuF (FMJ)": {
+        "lead": 60,
+        "brass": 20,
+        "powder": 10
+    },
+    "13.2x92mmSR TuF (AP)": {
+        "lead": 50,
+        "steel": 20,
+        "brass": 20,
+        "powder": 10
+    },
+    "13.2x92mmSR TuF (AP-I)": {
+        "lead": 50,
+        "steel": 20,
+        "incendiary compound": 15,
+        "brass": 20,
+        "powder": 10
+    },
+    "13.2x92mmSR TuF (AP-HE)": {
+        "lead": 45,
+        "steel": 20,
+        "explosive compound": 20,
+        "brass": 20,
+        "powder": 10
+    },
+    "13.2x92mmSR TuF (Sabot)": {
+        "steel": 60,
+        "uranium": 25,
+        "brass": 20,
+        "powder": 10
+    },
+    "14.5x114mm (FMJ)": {
+        "lead": 70,
+        "brass": 30,
+        "powder": 12
+    },
+    "14.5x114mm (AP)": {
+        "lead": 60,
+        "steel": 30,
+        "brass": 30,
+        "powder": 12
+    },
+    "14.5x114mm (AP-I)": {
+        "lead": 60,
+        "steel": 30,
+        "incendiary compound": 20,
+        "brass": 30,
+        "powder": 12
+    },
+    "14.5x114mm (AP-HE)": {
+        "lead": 55,
+        "steel": 30,
+        "explosive compound": 25,
+        "brass": 30,
+        "powder": 12
+    },
+    "14.5x114mm (Sabot)": {
+        "steel": 70,
+        "uranium": 30,
+        "brass": 30,
+        "powder": 12
+    },
+    "15.2x169mm (Sabot)": {
+        "steel": 80,
+        "uranium": 35,
+        "brass": 30,
+        "powder": 15
+    },
+    "2-Bore (FMJ)": {
+        "lead": 100,
+        "brass": 50,
+        "powder": 20
+    },
+    "2-Bore (AP)": {
+        "lead": 80,
+        "steel": 50,
+        "brass": 50,
+        "powder": 20
+    },
+    "2-Bore (AP-I)": {
+        "lead": 80,
+        "steel": 50,
+        "incendiary compound": 30,
+        "brass": 50,
+        "powder": 20
+    },
+    "2-Bore (AP-HE)": {
+        "lead": 70,
+        "steel": 50,
+        "explosive compound": 40,
+        "brass": 50,
+        "powder": 20
+    },
+    "2-Bore (Sabot)": {
+        "steel": 100,
+        "uranium": 50,
+        "brass": 50,
+        "powder": 20
+    },
+    "20x102mm NATO (AP)": {
+        "lead": 30,
+        "steel": 50,
+        "brass": 20,
+        "powder": 8
+    },
+    "20x102mm NATO (AP-I)": {
+        "lead": 30,
+        "steel": 50,
+        "incendiary compound": 20,
+        "brass": 20,
+        "powder": 8
+    },
+    "20x102mm NATO (AP-HE)": {
+        "lead": 25,
+        "steel": 50,
+        "explosive compound": 30,
+        "brass": 20,
+        "powder": 8
+    },
+    "20x102mm NATO (Sabot)": {
+        "steel": 50,
+        "uranium": 30,
+        "brass": 20,
+        "powder": 8
+    },
+    "20x110mm Hispano (AP)": {
+        "lead": 35,
+        "steel": 60,
+        "brass": 20,
+        "powder": 10
+    },
+    "20x110mm Hispano (AP-I)": {
+        "lead": 35,
+        "steel": 60,
+        "incendiary compound": 25,
+        "brass": 20,
+        "powder": 10
+    },
+    "20x110mm Hispano (AP-HE)": {
+        "lead": 30,
+        "steel": 60,
+        "explosive compound": 35,
+        "brass": 20,
+        "powder": 10
+    },
+    "20x110mm Hispano (Sabot)": {
+        "steel": 60,
+        "uranium": 35,
+        "brass": 20,
+        "powder": 10
+    },
+    "20x128mm Oerlikon (AP)": {
+        "lead": 40,
+        "steel": 70,
+        "brass": 25,
+        "powder": 12
+    },
+    "20x128mm Oerlikon (AP-I)": {
+        "lead": 40,
+        "steel": 70,
+        "incendiary compound": 30,
+        "brass": 25,
+        "powder": 12
+    },
+    "20x128mm Oerlikon (AP-HE)": {
+        "lead": 35,
+        "steel": 70,
+        "explosive compound": 40,
+        "brass": 25,
+        "powder": 12
+    },
+    "20x128mm Oerlikon (Sabot)": {
+        "steel": 70,
+        "uranium": 40,
+        "brass": 25,
+        "powder": 12
+    },
+    "20x138mmB (AP)": {
+        "lead": 45,
+        "steel": 80,
+        "brass": 30,
+        "powder": 15
+    },
+    "20x138mmB (AP-I)": {
+        "lead": 45,
+        "steel": 80,
+        "incendiary compound": 35,
+        "brass": 30,
+        "powder": 15
+    },
+    "20x138mmB (AP-HE)": {
+        "lead": 40,
+        "steel": 80,
+        "explosive compound": 45,
+        "brass": 30,
+        "powder": 15
+    },
+    "20x138mmB (Sabot)": {
+        "steel": 80,
+        "uranium": 45,
+        "brass": 30,
+        "powder": 15
+    },
+    "20x139mm (AP)": {
+        "lead": 50,
+        "steel": 90,
+        "brass": 35,
+        "powder": 18
+    },
+    "20x139mm (AP-I)": {
+        "lead": 50,
+        "steel": 90,
+        "incendiary compound": 40,
+        "brass": 35,
+        "powder": 18
+    },
+    "20x139mm (AP-HE)": {
+        "lead": 45,
+        "steel": 90,
+        "explosive compound": 50,
+        "brass": 35,
+        "powder": 18
+    },
+    "20x139mm (Sabot)": {
+        "steel": 90,
+        "uranium": 50,
+        "brass": 35,
+        "powder": 18
+    },
+    "20x82mm Mauser (AP)": {
+        "lead": 30,
+        "steel": 40,
+        "brass": 15,
+        "powder": 6
+    },
+    "20x82mm Mauser (AP-I)": {
+        "lead": 30,
+        "steel": 40,
+        "incendiary compound": 20,
+        "brass": 15,
+        "powder": 6
+    },
+    "20x82mm Mauser (AP-HE)": {
+        "lead": 25,
+        "steel": 40,
+        "explosive compound": 25,
+        "brass": 15,
+        "powder": 6
+    },
+    "20x82mm Mauser (Sabot)": {
+        "steel": 40,
+        "uranium": 25,
+        "brass": 15,
+        "powder": 6
+    },
+    "20x99mmR ShVAK (AP)": {
+        "lead": 35,
+        "steel": 50,
+        "brass": 18,
+        "powder": 7
+    },
+    "20x99mmR ShVAK (AP-I)": {
+        "lead": 35,
+        "steel": 50,
+        "incendiary compound": 25,
+        "brass": 18,
+        "powder": 7
+    },
+    "20x99mmR ShVAK (AP-HE)": {
+        "lead": 30,
+        "steel": 50,
+        "explosive compound": 30,
+        "brass": 18,
+        "powder": 7
+    },
+    "20x99mmR ShVAK (Sabot)": {
+        "steel": 50,
+        "uranium": 30,
+        "brass": 18,
+        "powder": 7
+    },
+    "23x152mmB (AP)": {
+        "lead": 55,
+        "steel": 100,
+        "brass": 40,
+        "powder": 20
+    },
+    "23x152mmB (AP-I)": {
+        "lead": 55,
+        "steel": 100,
+        "incendiary compound": 50,
+        "brass": 40,
+        "powder": 20
+    },
+    "23x152mmB (AP-HE)": {
+        "lead": 50,
+        "steel": 100,
+        "explosive compound": 60,
+        "brass": 40,
+        "powder": 20
+    },
+    "23x152mmB (Sabot)": {
+        "steel": 100,
+        "uranium": 60,
+        "brass": 40,
+        "powder": 20
+    },
+    "25x137mm NATO (AP)": {
+        "lead": 60,
+        "steel": 120,
+        "brass": 50,
+        "powder": 25
+    },
+    "25x137mm NATO (AP-I)": {
+        "lead": 60,
+        "steel": 120,
+        "incendiary compound": 60,
+        "brass": 50,
+        "powder": 25
+    },
+    "25x137mm NATO (AP-HE)": {
+        "lead": 55,
+        "steel": 120,
+        "explosive compound": 70,
+        "brass": 50,
+        "powder": 25
+    },
+    "25x137mm NATO (Sabot)": {
+        "steel": 120,
+        "uranium": 70,
+        "brass": 50,
+        "powder": 25
+    },
+    ".300 Winchester Magnum (FMJ)": {
+        "lead": 40,
+        "brass": 15,
+        "powder": 6
+    },
+    ".300 Winchester Magnum (AP)": {
+        "lead": 35,
+        "steel": 15,
+        "brass": 15,
+        "powder": 6
+    },
+    ".300 Winchester Magnum (AP-I)": {
+        "lead": 35,
+        "steel": 15,
+        "incendiary compound": 10,
+        "brass": 15,
+        "powder": 6
+    },
+    ".300 Winchester Magnum (AP-HE)": {
+        "lead": 30,
+        "steel": 15,
+        "explosive compound": 15,
+        "brass": 15,
+        "powder": 6
+    },
+    ".300 Winchester Magnum (Sabot)": {
+        "steel": 40,
+        "uranium": 20,
+        "brass": 15,
+        "powder": 6
+    },
+    "30x113mmB (AP)": {
+        "lead": 70,
+        "steel": 150,
+        "brass": 60,
+        "powder": 30
+    },
+    "30x113mmB (AP-I)": {
+        "lead": 70,
+        "steel": 150,
+        "incendiary compound": 70,
+        "brass": 60,
+        "powder": 30
+    },
+    "30x113mmB (AP-HE)": {
+        "lead": 65,
+        "steel": 150,
+        "explosive compound": 80,
+        "brass": 60,
+        "powder": 30
+    },
+    "30x113mmB (Sabot)": {
+        "steel": 150,
+        "uranium": 80,
+        "brass": 60,
+        "powder": 30
+    },
+    "30x165mm (AP)": {
+        "lead": 90,
+        "steel": 180,
+        "brass": 70,
+        "powder": 35
+    },
+    "30x165mm (AP-I)": {
+        "lead": 90,
+        "steel": 180,
+        "incendiary compound": 90,
+        "brass": 70,
+        "powder": 35
+    },
+    "30x165mm (AP-HE)": {
+        "lead": 85,
+        "steel": 180,
+        "explosive compound": 100,
+        "brass": 70,
+        "powder": 35
+    },
+    "30x165mm (Sabot)": {
+        "steel": 180,
+        "uranium": 100,
+        "brass": 70,
+        "powder": 35
+    },
+    "30x173mm NATO (AP)": {
+        "lead": 100,
+        "steel": 200,
+        "brass": 80,
+        "powder": 40
+    },
+    "30x173mm NATO (AP-I)": {
+        "lead": 100,
+        "steel": 200,
+        "incendiary compound": 100,
+        "brass": 80,
+        "powder": 40
+    },
+    "30x173mm NATO (AP-HE)": {
+        "lead": 95,
+        "steel": 200,
+        "explosive compound": 110,
+        "brass": 80,
+        "powder": 40
+    },
+    "30x173mm NATO (Sabot)": {
+        "steel": 200,
+        "uranium": 110,
+        "brass": 80,
+        "powder": 40
+    },
+    ".338 Lapua Magnum (FMJ)": {
+        "lead": 45,
+        "brass": 20,
+        "powder": 8
+    },
+    ".338 Lapua Magnum (AP)": {
+        "lead": 40,
+        "steel": 20,
+        "brass": 20,
+        "powder": 8
+    },
+    ".338 Lapua Magnum (AP-I)": {
+        "lead": 40,
+        "steel": 20,
+        "incendiary compound": 15,
+        "brass": 20,
+        "powder": 8
+    },
+    ".338 Lapua Magnum (AP-HE)": {
+        "lead": 35,
+        "steel": 20,
+        "explosive compound": 20,
+        "brass": 20,
+        "powder": 8
+    },
+    ".338 Lapua Magnum (Sabot)": {
+        "steel": 45,
+        "uranium": 25,
+        "brass": 20,
+        "powder": 8
+    },
+    ".338 Norma Magnum (FMJ)": {
+        "lead": 50,
+        "brass": 20,
+        "powder": 8
+    },
+    ".338 Norma Magnum (AP)": {
+        "lead": 45,
+        "steel": 20,
+        "brass": 20,
+        "powder": 8
+    },
+    ".338 Norma Magnum (AP-I)": {
+        "lead": 45,
+        "steel": 20,
+        "incendiary compound": 20,
+        "brass": 20,
+        "powder": 8
+    },
+    ".338 Norma Magnum (AP-HE)": {
+        "lead": 40,
+        "steel": 20,
+        "explosive compound": 25,
+        "brass": 20,
+        "powder": 8
+    },
+    ".338 Norma Magnum (Sabot)": {
+        "steel": 50,
+        "uranium": 30,
+        "brass": 20,
+        "powder": 8
+    },
+    ".408 Cheyenne Tactical (FMJ)": {
+        "lead": 60,
+        "brass": 25,
+        "powder": 10
+    },
+    ".408 Cheyenne Tactical (AP)": {
+        "lead": 55,
+        "steel": 25,
+        "brass": 25,
+        "powder": 10
+    },
+    ".408 Cheyenne Tactical (AP-I)": {
+        "lead": 55,
+        "steel": 25,
+        "incendiary compound": 30,
+        "brass": 25,
+        "powder": 10
+    },
+    ".408 Cheyenne Tactical (AP-HE)": {
+        "lead": 50,
+        "steel": 25,
+        "explosive compound": 35,
+        "brass": 25,
+        "powder": 10
+    },
+    ".408 Cheyenne Tactical (Sabot)": {
+        "steel": 60,
+        "uranium": 35,
+        "brass": 25,
+        "powder": 10
+    },
+    "40x311mmR (AP)": {
+        "lead": 120,
+        "steel": 250,
+        "brass": 100,
+        "powder": 50
+    },
+    "40x311mmR (AP-I)": {
+        "lead": 120,
+        "steel": 250,
+        "incendiary compound": 120,
+        "brass": 100,
+        "powder": 50
+    },
+    "40x311mmR (AP-HE)": {
+        "lead": 115,
+        "steel": 250,
+        "explosive compound": 130,
+        "brass": 100,
+        "powder": 50
+    },
+    "40x311mmR (Sabot)": {
+        "steel": 250,
+        "uranium": 130,
+        "brass": 100,
+        "powder": 50
+    },
+    ".470 Nitro Express (FMJ)": {
+        "lead": 70,
+        "brass": 30,
+        "powder": 12
+    },
+    ".470 Nitro Express (AP)": {
+        "lead": 60,
+        "steel": 30,
+        "brass": 30,
+        "powder": 12
+    },
+    ".470 Nitro Express (AP-I)": {
+        "lead": 60,
+        "steel": 30,
+        "incendiary compound": 20,
+        "brass": 30,
+        "powder": 12
+    },
+    ".470 Nitro Express (AP-HE)": {
+        "lead": 55,
+        "steel": 30,
+        "explosive compound": 25,
+        "brass": 30,
+        "powder": 12
+    },
+    ".470 Nitro Express (Sabot)": {
+        "steel": 70,
+        "uranium": 35,
+        "brass": 30,
+        "powder": 12
+    },
+    ".50 BMG (FMJ)": {
+        "lead": 80,
+        "brass": 35,
+        "powder": 15
+    },
+    ".50 BMG (AP)": {
+        "lead": 70,
+        "steel": 35,
+        "brass": 35,
+        "powder": 15
+    },
+    ".50 BMG (AP-I)": {
+        "lead": 70,
+        "steel": 35,
+        "incendiary compound": 25,
+        "brass": 35,
+        "powder": 15
+    },
+    ".50 BMG (AP-HE)": {
+        "lead": 65,
+        "steel": 35,
+        "explosive compound": 30,
+        "brass": 35,
+        "powder": 15
+    },
+    ".50 BMG (Sabot)": {
+        "steel": 80,
+        "uranium": 40,
+        "brass": 35,
+        "powder": 15
+    },
+    ".55 Boys (FMJ)": {
+        "lead": 85,
+        "brass": 40,
+        "powder": 18
+    },
+    ".55 Boys (AP)": {
+        "lead": 75,
+        "steel": 40,
+        "brass": 40,
+        "powder": 18
+    },
+    ".55 Boys (AP-I)": {
+        "lead": 75,
+        "steel": 40,
+        "incendiary compound": 30,
+        "brass": 40,
+        "powder": 18
+    },
+    ".55 Boys (AP-HE)": {
+        "lead": 70,
+        "steel": 40,
+        "explosive compound": 35,
+        "brass": 40,
+        "powder": 18
+    },
+    ".55 Boys (Sabot)": {
+        "steel": 85,
+        "uranium": 45,
+        "brass": 40,
+        "powder": 18
+    },
+    ".600 Nitro Express (FMJ)": {
+        "lead": 100,
+        "brass": 50,
+        "powder": 20
+    },
+    ".600 Nitro Express (AP)": {
+        "lead": 90,
+        "steel": 50,
+        "brass": 50,
+        "powder": 20
+    },
+    ".600 Nitro Express (AP-I)": {
+        "lead": 90,
+        "steel": 50,
+        "incendiary compound": 40,
+        "brass": 50,
+        "powder": 20
+    },
+    ".600 Nitro Express (AP-HE)": {
+        "lead": 85,
+        "steel": 50,
+        "explosive compound": 45,
+        "brass": 50,
+        "powder": 20
+    },
+    ".600 Nitro Express (Sabot)": {
+        "steel": 100,
+        "uranium": 50,
+        "brass": 50,
+        "powder": 20
+    },
+    "7.92x94mm Patronen (FMJ)": {
+        "lead": 50,
+        "brass": 20,
+        "powder": 8
+    },
+    "7.92x94mm Patronen (AP)": {
+        "lead": 40,
+        "steel": 20,
+        "brass": 20,
+        "powder": 8
+    },
+    "7.92x94mm Patronen (AP-I)": {
+        "lead": 40,
+        "steel": 20,
+        "incendiary compound": 10,
+        "brass": 20,
+        "powder": 8
+    },
+    "7.92x94mm Patronen (AP-HE)": {
+        "lead": 35,
+        "steel": 20,
+        "explosive compound": 15,
+        "brass": 20,
+        "powder": 8
+    },
+    "7.92x94mm Patronen (Sabot)": {
+        "steel": 50,
+        "uranium": 20,
+        "brass": 20,
+        "powder": 8
+    },
+    ".950 JDJ (FMJ)": {
+        "lead": 150,
+        "brass": 70,
+        "powder": 30
+    },
+    ".950 JDJ (AP)": {
+        "lead": 130,
+        "steel": 70,
+        "brass": 70,
+        "powder": 30
+    },
+    ".950 JDJ (AP-I)": {
+        "lead": 130,
+        "steel": 70,
+        "incendiary compound": 50,
+        "brass": 70,
+        "powder": 30
+    },
+    ".950 JDJ (AP-HE)": {
+        "lead": 120,
+        "steel": 70,
+        "explosive compound": 60,
+        "brass": 70,
+        "powder": 30
+    },
+    ".950 JDJ (Sabot)": {
+        "steel": 150,
+        "uranium": 75,
+        "brass": 70,
+        "powder": 30
+    },
+    "blunderbuss shot": {
+        "lead": 20,
+        "steel": 10,
+        "brass": 5,
+        "powder": 2
+    },
+    "round shot": {
+        "lead": 25,
+        "steel": 12,
+        "brass": 6,
+        "powder": 3
+    },
+    "bursting shell": {
+        "lead": 20,
+        "steel": 15,
+        "explosive compound": 10,
+        "brass": 6,
+        "powder": 3
+    },
+    "incendiary shell": {
+        "lead": 20,
+        "steel": 15,
+        "incendiary compound": 10,
+        "brass": 6,
+        "powder": 3
+    },
+    "grape shot shell": {
+        "lead": 30,
+        "steel": 20,
+        "brass": 8,
+        "powder": 4
+    },
+    "mini round shot": {
+        "lead": 15,
+        "steel": 8,
+        "brass": 4,
+        "powder": 2
+    },
+    "mini grape shot shell": {
+        "lead": 20,
+        "steel": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    "mortar grenade": {
+        "steel": 60,
+        "explosive compound": 30,
+        "powder": 10
+    },
+    "musket ball": {
+        "lead": 15,
+        "steel": 5,
+        "powder": 2
+    },
+    ".75 cal bolter shell (Standard)": {
+        "lead": 80,
+        "steel": 40,
+        "brass": 20,
+        "powder": 10
+    },
+    ".75 cal bolter shell (Inferno)": {
+        "lead": 80,
+        "steel": 40,
+        "incendiary compound": 30,
+        "brass": 20,
+        "powder": 10
+    },
+    ".75 cal bolter shell (Metal Storm)": {
+        "lead": 80,
+        "steel": 40,
+        "explosive compound": 35,
+        "brass": 20,
+        "powder": 10
+    },
+    ".75 cal bolter shell (Kraken)": {
+        "lead": 80,
+        "steel": 40,
+        "uranium": 50,
+        "brass": 20,
+        "powder": 10
+    },
+    ".998 cal bolter shell (Standard)": {
+        "lead": 100,
+        "steel": 50,
+        "brass": 25,
+        "powder": 12
+    },
+    ".998 cal bolter shell (Inferno)": {
+        "lead": 100,
+        "steel": 50,
+        "incendiary compound": 40,
+        "brass": 25,
+        "powder": 12
+    },
+    ".998 cal bolter shell (Metal Storm)": {
+        "lead": 100,
+        "steel": 50,
+        "explosive compound": 45,
+        "brass": 25,
+        "powder": 12
+    },
+    ".998 cal bolter shell (Kraken)": {
+        "lead": 100,
+        "steel": 50,
+        "uranium": 60,
+        "brass": 25,
+        "powder": 12
+    },
+    "10mm Auto (FMJ)": {
+        "lead": 20,
+        "brass": 8,
+        "powder": 4
+    },
+    "10mm Auto (AP)": {
+        "lead": 18,
+        "steel": 8,
+        "brass": 8,
+        "powder": 4
+    },
+    "10mm Auto (HP)": {
+        "lead": 20,
+        "brass": 8,
+        "powder": 4
+    },
+    "13mm Gyrojet (FMJ)": {
+        "lead": 30,
+        "brass": 12,
+        "powder": 6
+    },
+    "13mm Gyrojet (AP)": {
+        "lead": 25,
+        "steel": 12,
+        "brass": 12,
+        "powder": 6
+    },
+    "13mm Gyrojet (HP)": {
+        "lead": 30,
+        "brass": 12,
+        "powder": 6
+    },
+    ".22 LR (FMJ)": {
+        "lead": 5,
+        "brass": 2,
+        "powder": 1
+    },
+    ".22 LR (AP)": {
+        "lead": 4,
+        "steel": 2,
+        "brass": 2,
+        "powder": 1
+    },
+    ".22 LR (HP)": {
+        "lead": 5,
+        "brass": 2,
+        "powder": 1
+    },
+    ".22 Short (FMJ)": {
+        "lead": 4,
+        "brass": 1,
+        "powder": 0.5
+    },
+    ".22 Short (AP)": {
+        "lead": 3,
+        "steel": 1,
+        "brass": 1,
+        "powder": 0.5
+    },
+    ".22 Short (HP)": {
+        "lead": 4,
+        "brass": 1,
+        "powder": 0.5
+    },
+    ".25 ACP (FMJ)": {
+        "lead": 6,
+        "brass": 2,
+        "powder": 1
+    },
+    ".25 ACP (AP)": {
+        "lead": 5,
+        "steel": 2,
+        "brass": 2,
+        "powder": 1
+    },
+    ".25 ACP (HP)": {
+        "lead": 6,
+        "brass": 2,
+        "powder": 1
+    },
+    ".32 ACP (FMJ)": {
+        "lead": 7,
+        "brass": 3,
+        "powder": 1.5
+    },
+    ".32 ACP (AP)": {
+        "lead": 6,
+        "steel": 3,
+        "brass": 3,
+        "powder": 1.5
+    },
+    ".32 ACP (HP)": {
+        "lead": 7,
+        "brass": 3,
+        "powder": 1.5
+    },
+    ".357 Magnum (FMJ)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    ".357 Magnum (AP)": {
+        "lead": 9,
+        "steel": 4,
+        "brass": 4,
+        "powder": 2
+    },
+    ".357 Magnum (HP)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    ".357 SIG (FMJ)": {
+        "lead": 11,
+        "brass": 4,
+        "powder": 2
+    },
+    ".357 SIG (AP)": {
+        "lead": 10,
+        "steel": 4,
+        "brass": 4,
+        "powder": 2
+    },
+    ".357 SIG (HP)": {
+        "lead": 11,
+        "brass": 4,
+        "powder": 2
+    },
+    ".380 ACP (FMJ)": {
+        "lead": 8,
+        "brass": 3,
+        "powder": 1.5
+    },
+    ".380 ACP (AP)": {
+        "lead": 7,
+        "steel": 3,
+        "brass": 3,
+        "powder": 1.5
+    },
+    ".380 ACP (HP)": {
+        "lead": 8,
+        "brass": 3,
+        "powder": 1.5
+    },
+    ".38 ACP (FMJ)": {
+        "lead": 9,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    ".38 ACP (AP)": {
+        "lead": 8,
+        "steel": 3.5,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    ".38 ACP (HP)": {
+        "lead": 9,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    ".38 Special (FMJ)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    ".38 Special (AP)": {
+        "lead": 9,
+        "steel": 4,
+        "brass": 4,
+        "powder": 2
+    },
+    ".38 Special (HP)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    ".38 Super (FMJ)": {
+        "lead": 11,
+        "brass": 4.5,
+        "powder": 2.2
+    },
+    ".38 Super (AP)": {
+        "lead": 10,
+        "steel": 4.5,
+        "brass": 4.5,
+        "powder": 2.2
+    },
+    ".38 Super (HP)": {
+        "lead": 11,
+        "brass": 4.5,
+        "powder": 2.2
+    },
+    ".38 S&W (FMJ)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    ".38 S&W (AP)": {
+        "lead": 9,
+        "steel": 4,
+        "brass": 4,
+        "powder": 2
+    },
+    ".38 S&W (HP)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    ".40 S&W (FMJ)": {
+        "lead": 12,
+        "brass": 5,
+        "powder": 2.5
+    },
+    ".40 S&W (AP)": {
+        "lead": 11,
+        "steel": 5,
+        "brass": 5,
+        "powder": 2.5
+    },
+    ".40 S&W (HP)": {
+        "lead": 12,
+        "brass": 5,
+        "powder": 2.5
+    },
+    ".41 Rimfire (FMJ)": {
+        "lead": 13,
+        "brass": 5,
+        "powder": 2.5
+    },
+    ".41 Rimfire (AP)": {
+        "lead": 12,
+        "steel": 5,
+        "brass": 5,
+        "powder": 2.5
+    },
+    ".41 Rimfire (HP)": {
+        "lead": 13,
+        "brass": 5,
+        "powder": 2.5
+    },
+    ".44 Magnum (FMJ)": {
+        "lead": 15,
+        "brass": 6,
+        "powder": 3
+    },
+    ".44 Magnum (AP)": {
+        "lead": 14,
+        "steel": 6,
+        "brass": 6,
+        "powder": 3
+    },
+    ".44 Magnum (HP)": {
+        "lead": 15,
+        "brass": 6,
+        "powder": 3
+    },
+    ".44 S&W Special (FMJ)": {
+        "lead": 14,
+        "brass": 6,
+        "powder": 3
+    },
+    ".44 S&W Special (AP)": {
+        "lead": 13,
+        "steel": 6,
+        "brass": 6,
+        "powder": 3
+    },
+    ".44 S&W Special (HP)": {
+        "lead": 14,
+        "brass": 6,
+        "powder": 3
+    },
+    ".454 Casull (FMJ)": {
+        "lead": 17,
+        "brass": 7,
+        "powder": 3.5
+    },
+    ".454 Casull (AP)": {
+        "lead": 16,
+        "steel": 7,
+        "brass": 7,
+        "powder": 3.5
+    },
+    ".454 Casull (HP)": {
+        "lead": 17,
+        "brass": 7,
+        "powder": 3.5
+    },
+    ".455 Webley (FMJ)": {
+        "lead": 14,
+        "brass": 6,
+        "powder": 3
+    },
+    ".455 Webley (AP)": {
+        "lead": 13,
+        "steel": 6,
+        "brass": 6,
+        "powder": 3
+    },
+    ".455 Webley (HP)": {
+        "lead": 14,
+        "brass": 6,
+        "powder": 3
+    },
+    ".45 ACP (FMJ)": {
+        "lead": 15,
+        "brass": 6,
+        "powder": 3
+    },
+    ".45 ACP (AP)": {
+        "lead": 14,
+        "steel": 6,
+        "brass": 6,
+        "powder": 3
+    },
+    ".45 ACP (HP)": {
+        "lead": 15,
+        "brass": 6,
+        "powder": 3
+    },
+    ".45 Colt (FMJ)": {
+        "lead": 16,
+        "brass": 6.5,
+        "powder": 3.2
+    },
+    ".45 Colt (AP)": {
+        "lead": 15,
+        "steel": 6.5,
+        "brass": 6.5,
+        "powder": 3.2
+    },
+    ".45 Colt (HP)": {
+        "lead": 16,
+        "brass": 6.5,
+        "powder": 3.2
+    },
+    ".45 Schofield (FMJ)": {
+        "lead": 16,
+        "brass": 6.5,
+        "powder": 3.2
+    },
+    ".45 Schofield (AP)": {
+        "lead": 15,
+        "steel": 6.5,
+        "brass": 6.5,
+        "powder": 3.2
+    },
+    ".45 Schofield (HP)": {
+        "lead": 16,
+        "brass": 6.5,
+        "powder": 3.2
+    },
+    ".460 S&W Magnum (FMJ)": {
+        "lead": 18,
+        "brass": 7.5,
+        "powder": 3.5
+    },
+    ".460 S&W Magnum (AP)": {
+        "lead": 17,
+        "steel": 7.5,
+        "brass": 7.5,
+        "powder": 3.5
+    },
+    ".460 S&W Magnum (HP)": {
+        "lead": 18,
+        "brass": 7.5,
+        "powder": 3.5
+    },
+    "4.6x30mm (FMJ)": {
+        "lead": 8,
+        "brass": 3,
+        "powder": 1.5
+    },
+    "4.6x30mm (AP)": {
+        "lead": 7,
+        "steel": 3,
+        "brass": 3,
+        "powder": 1.5
+    },
+    "4.6x30mm (HP)": {
+        "lead": 8,
+        "brass": 3,
+        "powder": 1.5
+    },
+    ".500 S&W Magnum (FMJ)": {
+        "lead": 20,
+        "brass": 8,
+        "powder": 4
+    },
+    ".500 S&W Magnum (AP)": {
+        "lead": 18,
+        "steel": 8,
+        "brass": 8,
+        "powder": 4
+    },
+    ".500 S&W Magnum (HP)": {
+        "lead": 20,
+        "brass": 8,
+        "powder": 4
+    },
+    ".50 AE (FMJ)": {
+        "lead": 19,
+        "brass": 8,
+        "powder": 3.5
+    },
+    ".50 AE (AP)": {
+        "lead": 17,
+        "steel": 8,
+        "brass": 8,
+        "powder": 3.5
+    },
+    ".50 AE (HP)": {
+        "lead": 19,
+        "brass": 8,
+        "powder": 3.5
+    },
+    "5.8x21mm DAP92 (FMJ)": {
+        "lead": 9,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "5.8x21mm DAP92 (AP)": {
+        "lead": 8,
+        "steel": 3.5,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "5.8x21mm DAP92 (HP)": {
+        "lead": 9,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "7.5 FK (FMJ)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    "7.5 FK (AP)": {
+        "lead": 9,
+        "steel": 4,
+        "brass": 4,
+        "powder": 2
+    },
+    "7.5 FK (HP)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    "7.62x25mm Tokarev (FMJ)": {
+        "lead": 9,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "7.62x25mm Tokarev (AP)": {
+        "lead": 8,
+        "steel": 3.5,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "7.62x25mm Tokarev (HP)": {
+        "lead": 9,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "7.62x38mmR (FMJ)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    "7.62x38mmR (AP)": {
+        "lead": 9,
+        "steel": 4,
+        "brass": 4,
+        "powder": 2
+    },
+    "7.62x38mmR (HP)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    "7.63x25mm Mauser (FMJ)": {
+        "lead": 8,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "7.63x25mm Mauser (AP)": {
+        "lead": 7,
+        "steel": 3.5,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "7.63x25mm Mauser (HP)": {
+        "lead": 8,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "7.65x20mm Longue (FMJ)": {
+        "lead": 7,
+        "brass": 3,
+        "powder": 1.5
+    },
+    "7.65x20mm Longue (AP)": {
+        "lead": 6,
+        "steel": 3,
+        "brass": 3,
+        "powder": 1.5
+    },
+    "7.65x20mm Longue (HP)": {
+        "lead": 7,
+        "brass": 3,
+        "powder": 1.5
+    },
+    "8x22mm Nambu (FMJ)": {
+        "lead": 8,
+        "brass": 3,
+        "powder": 1.5
+    },
+    "8x22mm Nambu (AP)": {
+        "lead": 7,
+        "steel": 3,
+        "brass": 3,
+        "powder": 1.5
+    },
+    "8x22mm Nambu (HP)": {
+        "lead": 8,
+        "brass": 3,
+        "powder": 1.5
+    },
+    "9x18mm Makarov (FMJ)": {
+        "lead": 9,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "9x18mm Makarov (AP)": {
+        "lead": 8,
+        "steel": 3.5,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "9x18mm Makarov (HP)": {
+        "lead": 9,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "9x19mm Para (FMJ)": {
+        "lead": 9,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "9x19mm Para (AP)": {
+        "lead": 8,
+        "steel": 3.5,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "9x19mm Para (HP)": {
+        "lead": 9,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "9x21mm Gyurza (FMJ)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    "9x21mm Gyurza (AP)": {
+        "lead": 9,
+        "steel": 4,
+        "brass": 4,
+        "powder": 2
+    },
+    "9x21mm Gyurza (HP)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    "FN 5.7x28mm (FMJ)": {
+        "lead": 8,
+        "brass": 3,
+        "powder": 1.5
+    },
+    "FN 5.7x28mm (AP)": {
+        "lead": 7,
+        "steel": 3,
+        "brass": 3,
+        "powder": 1.5
+    },
+    "FN 5.7x28mm (HP)": {
+        "lead": 8,
+        "brass": 3,
+        "powder": 1.5
+    },
+    "12.7x55mm (FMJ)": {
+        "lead": 70,
+        "brass": 30,
+        "powder": 12
+    },
+    "12.7x55mm (AP)": {
+        "lead": 60,
+        "steel": 30,
+        "brass": 30,
+        "powder": 12
+    },
+    "12.7x55mm (HP)": {
+        "lead": 70,
+        "brass": 30,
+        "powder": 12
+    },
+    "12.7x55mm (AP-I)": {
+        "lead": 60,
+        "steel": 30,
+        "incendiary compound": 20,
+        "brass": 30,
+        "powder": 12
+    },
+    "12.7x55mm (AP-HE)": {
+        "lead": 55,
+        "steel": 30,
+        "explosive compound": 25,
+        "brass": 30,
+        "powder": 12
+    },
+    "12.7x55mm (Sabot)": {
+        "steel": 70,
+        "uranium": 30,
+        "brass": 30,
+        "powder": 12
+    },
+    ".17 HMR (FMJ)": {
+        "lead": 5,
+        "brass": 2,
+        "powder": 1
+    },
+    ".17 HMR (AP)": {
+        "lead": 4,
+        "steel": 2,
+        "brass": 2,
+        "powder": 1
+    },
+    ".17 HMR (HP)": {
+        "lead": 5,
+        "brass": 2,
+        "powder": 1
+    },
+    ".22 Hornet (FMJ)": {
+        "lead": 6,
+        "brass": 2.5,
+        "powder": 1.2
+    },
+    ".22 Hornet (AP)": {
+        "lead": 5,
+        "steel": 2.5,
+        "brass": 2.5,
+        "powder": 1.2
+    },
+    ".22 Hornet (HP)": {
+        "lead": 6,
+        "brass": 2.5,
+        "powder": 1.2
+    },
+    ".22 WMR (FMJ)": {
+        "lead": 7,
+        "brass": 3,
+        "powder": 1.5
+    },
+    ".22 WMR (AP)": {
+        "lead": 6,
+        "steel": 3,
+        "brass": 3,
+        "powder": 1.5
+    },
+    ".22 WMR (HP)": {
+        "lead": 7,
+        "brass": 3,
+        "powder": 1.5
+    },
+    ".243 Winchester (FMJ)": {
+        "lead": 15,
+        "brass": 6,
+        "powder": 3
+    },
+    ".243 Winchester (AP)": {
+        "lead": 13,
+        "steel": 6,
+        "brass": 6,
+        "powder": 3
+    },
+    ".243 Winchester (HP)": {
+        "lead": 15,
+        "brass": 6,
+        "powder": 3
+    },
+    ".243 Winchester (AP-I)": {
+        "lead": 13,
+        "steel": 6,
+        "incendiary compound": 5,
+        "brass": 6,
+        "powder": 3
+    },
+    ".243 Winchester (AP-HE)": {
+        "lead": 12,
+        "steel": 6,
+        "explosive compound": 8,
+        "brass": 6,
+        "powder": 3
+    },
+    ".243 Winchester (Sabot)": {
+        "steel": 15,
+        "uranium": 10,
+        "brass": 6,
+        "powder": 3
+    },
+    ".277 Fury (FMJ)": {
+        "lead": 14,
+        "brass": 6,
+        "powder": 3
+    },
+    ".277 Fury (AP)": {
+        "lead": 12,
+        "steel": 6,
+        "brass": 6,
+        "powder": 3
+    },
+    ".277 Fury (HP)": {
+        "lead": 14,
+        "brass": 6,
+        "powder": 3
+    },
+    ".277 Fury (AP-I)": {
+        "lead": 12,
+        "steel": 6,
+        "incendiary compound": 5,
+        "brass": 6,
+        "powder": 3
+    },
+    ".277 Fury (AP-HE)": {
+        "lead": 11,
+        "steel": 6,
+        "explosive compound": 8,
+        "brass": 6,
+        "powder": 3
+    },
+    ".277 Fury (Sabot)": {
+        "steel": 14,
+        "uranium": 10,
+        "brass": 6,
+        "powder": 3
+    },
+    ".280 British (FMJ)": {
+        "lead": 13,
+        "brass": 5,
+        "powder": 2.5
+    },
+    ".280 British (AP)": {
+        "lead": 11,
+        "steel": 5,
+        "brass": 5,
+        "powder": 2.5
+    },
+    ".280 British (HP)": {
+        "lead": 13,
+        "brass": 5,
+        "powder": 2.5
+    },
+    ".280 British (AP-I)": {
+        "lead": 11,
+        "steel": 5,
+        "incendiary compound": 4,
+        "brass": 5,
+        "powder": 2.5
+    },
+    ".280 British (AP-HE)": {
+        "lead": 10,
+        "steel": 5,
+        "explosive compound": 6,
+        "brass": 5,
+        "powder": 2.5
+    },
+    ".280 British (Sabot)": {
+        "steel": 13,
+        "uranium": 8,
+        "brass": 5,
+        "powder": 2.5
+    },
+    ".30-30 Winchester (FMJ)": {
+        "lead": 15,
+        "brass": 6,
+        "powder": 3
+    },
+    ".30-30 Winchester (AP)": {
+        "lead": 13,
+        "steel": 6,
+        "brass": 6,
+        "powder": 3
+    },
+    ".30-30 Winchester (HP)": {
+        "lead": 15,
+        "brass": 6,
+        "powder": 3
+    },
+    ".30-30 Winchester (AP-I)": {
+        "lead": 13,
+        "steel": 6,
+        "incendiary compound": 5,
+        "brass": 6,
+        "powder": 3
+    },
+    ".30-30 Winchester (AP-HE)": {
+        "lead": 12,
+        "steel": 6,
+        "explosive compound": 8,
+        "brass": 6,
+        "powder": 3
+    },
+    ".30-30 Winchester (Sabot)": {
+        "steel": 15,
+        "uranium": 10,
+        "brass": 6,
+        "powder": 3
+    },
+    ".30-06 Springfield (FMJ)": {
+        "lead": 16,
+        "brass": 7,
+        "powder": 3.5
+    },
+    ".30-06 Springfield (AP)": {
+        "lead": 14,
+        "steel": 7,
+        "brass": 7,
+        "powder": 3.5
+    },
+    ".30-06 Springfield (HP)": {
+        "lead": 16,
+        "brass": 7,
+        "powder": 3.5
+    },
+    ".30-06 Springfield (AP-I)": {
+        "lead": 14,
+        "steel": 7,
+        "incendiary compound": 6,
+        "brass": 7,
+        "powder": 3.5
+    },
+    ".30-06 Springfield (AP-HE)": {
+        "lead": 13,
+        "steel": 7,
+        "explosive compound": 9,
+        "brass": 7,
+        "powder": 3.5
+    },
+    ".30-06 Springfield (Sabot)": {
+        "steel": 16,
+        "uranium": 11,
+        "brass": 7,
+        "powder": 3.5
+    },
+    ".300 AAC Blackout (FMJ)": {
+        "lead": 14,
+        "brass": 6,
+        "powder": 3
+    },
+    ".300 AAC Blackout (AP)": {
+        "lead": 12,
+        "steel": 6,
+        "brass": 6,
+        "powder": 3
+    },
+    ".300 AAC Blackout (HP)": {
+        "lead": 14,
+        "brass": 6,
+        "powder": 3
+    },
+    ".300 AAC Blackout (AP-I)": {
+        "lead": 12,
+        "steel": 6,
+        "incendiary compound": 5,
+        "brass": 6,
+        "powder": 3
+    },
+    ".300 AAC Blackout (AP-HE)": {
+        "lead": 11,
+        "steel": 6,
+        "explosive compound": 7,
+        "brass": 6,
+        "powder": 3
+    },
+    ".300 AAC Blackout (Sabot)": {
+        "steel": 14,
+        "uranium": 9,
+        "brass": 6,
+        "powder": 3
+    },
+    ".303 British (FMJ)": {
+        "lead": 15,
+        "brass": 6,
+        "powder": 3
+    },
+    ".303 British (AP)": {
+        "lead": 13,
+        "steel": 6,
+        "brass": 6,
+        "powder": 3
+    },
+    ".303 British (HP)": {
+        "lead": 15,
+        "brass": 6,
+        "powder": 3
+    },
+    ".303 British (AP-I)": {
+        "lead": 13,
+        "steel": 6,
+        "incendiary compound": 5,
+        "brass": 6,
+        "powder": 3
+    },
+    ".303 British (AP-HE)": {
+        "lead": 12,
+        "steel": 6,
+        "explosive compound": 8,
+        "brass": 6,
+        "powder": 3
+    },
+    ".303 British (Sabot)": {
+        "steel": 15,
+        "uranium": 10,
+        "brass": 6,
+        "powder": 3
+    },
+    ".30 Carbine (FMJ)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    ".30 Carbine (AP)": {
+        "lead": 9,
+        "steel": 4,
+        "brass": 4,
+        "powder": 2
+    },
+    ".30 Carbine (HP)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    ".30 Carbine (AP-I)": {
+        "lead": 9,
+        "steel": 4,
+        "incendiary compound": 3,
+        "brass": 4,
+        "powder": 2
+    },
+    ".30 Carbine (AP-HE)": {
+        "lead": 8,
+        "steel": 4,
+        "explosive compound": 4,
+        "brass": 4,
+        "powder": 2
+    },
+    ".30 Carbine (Sabot)": {
+        "steel": 10,
+        "uranium": 5,
+        "brass": 4,
+        "powder": 2
+    },
+    ".38-55 Winchester (FMJ)": {
+        "lead": 20,
+        "brass": 8,
+        "powder": 4
+    },
+    ".38-55 Winchester (AP)": {
+        "lead": 18,
+        "steel": 8,
+        "brass": 8,
+        "powder": 4
+    },
+    ".38-55 Winchester (HP)": {
+        "lead": 20,
+        "brass": 8,
+        "powder": 4
+    },
+    ".38-55 Winchester (AP-I)": {
+        "lead": 18,
+        "steel": 8,
+        "incendiary compound": 7,
+        "brass": 8,
+        "powder": 4
+    },
+    ".38-55 Winchester (AP-HE)": {
+        "lead": 17,
+        "steel": 8,
+        "explosive compound": 10,
+        "brass": 8,
+        "powder": 4
+    },
+    ".38-55 Winchester (Sabot)": {
+        "steel": 20,
+        "uranium": 10,
+        "brass": 8,
+        "powder": 4
+    },
+    ".44-40 Winchester (FMJ)": {
+        "lead": 16,
+        "brass": 6.5,
+        "powder": 3.2
+    },
+    ".44-40 Winchester (AP)": {
+        "lead": 14,
+        "steel": 6.5,
+        "brass": 6.5,
+        "powder": 3.2
+    },
+    ".44-40 Winchester (HP)": {
+        "lead": 16,
+        "brass": 6.5,
+        "powder": 3.2
+    },
+    ".44-40 Winchester (AP-I)": {
+        "lead": 14,
+        "steel": 6.5,
+        "incendiary compound": 6,
+        "brass": 6.5,
+        "powder": 3.2
+    },
+    ".44-40 Winchester (AP-HE)": {
+        "lead": 13,
+        "steel": 6.5,
+        "explosive compound": 8,
+        "brass": 6.5,
+        "powder": 3.2
+    },
+    ".44-40 Winchester (Sabot)": {
+        "steel": 16,
+        "uranium": 10,
+        "brass": 6.5,
+        "powder": 3.2
+    },
+    ".45-70 Government (FMJ)": {
+        "lead": 20,
+        "brass": 8,
+        "powder": 4
+    },
+    ".45-70 Government (AP)": {
+        "lead": 18,
+        "steel": 8,
+        "brass": 8,
+        "powder": 4
+    },
+    ".45-70 Government (HP)": {
+        "lead": 20,
+        "brass": 8,
+        "powder": 4
+    },
+    ".45-70 Government (AP-I)": {
+        "lead": 18,
+        "steel": 8,
+        "incendiary compound": 7,
+        "brass": 8,
+        "powder": 4
+    },
+    ".45-70 Government (AP-HE)": {
+        "lead": 17,
+        "steel": 8,
+        "explosive compound": 10,
+        "brass": 8,
+        "powder": 4
+    },
+    ".45-70 Government (Sabot)": {
+        "steel": 20,
+        "uranium": 10,
+        "brass": 8,
+        "powder": 4
+    },
+    ".458 SOCOM (FMJ)": {
+        "lead": 19,
+        "brass": 8,
+        "powder": 3.5
+    },
+    ".458 SOCOM (AP)": {
+        "lead": 17,
+        "steel": 8,
+        "brass": 8,
+        "powder": 3.5
+    },
+    ".458 SOCOM (HP)": {
+        "lead": 19,
+        "brass": 8,
+        "powder": 3.5
+    },
+    ".458 SOCOM (AP-I)": {
+        "lead": 17,
+        "steel": 8,
+        "incendiary compound": 7,
+        "brass": 8,
+        "powder": 3.5
+    },
+    ".458 SOCOM (AP-HE)": {
+        "lead": 16,
+        "steel": 8,
+        "explosive compound": 8,
+        "brass": 8,
+        "powder": 3.5
+    },
+    ".458 SOCOM (Sabot)": {
+        "steel": 19,
+        "uranium": 10,
+        "brass": 8,
+        "powder": 3.5
+    },
+    "4.73x33mm Caseless (FMJ)": {
+        "lead": 5,
+        "powder": 1
+    },
+    "4.73x33mm Caseless (AP)": {
+        "lead": 4,
+        "steel": 1,
+        "powder": 1
+    },
+    "4.73x33mm Caseless (HP)": {
+        "lead": 5,
+        "powder": 1
+    },
+    "4.73x33mm Caseless (AP-I)": {
+        "lead": 4,
+        "steel": 1,
+        "incendiary compound": 1
+    },
+    "4.73x33mm Caseless (AP-HE)": {
+        "lead": 4,
+        "steel": 1,
+        "explosive compound": 1
+    },
+    "4.73x33mm Caseless (Sabot)": {
+        "steel": 5,
+        "uranium": 1
+    },
+    "4.85x49mm (FMJ)": {
+        "lead": 7,
+        "brass": 3,
+        "powder": 1.5
+    },
+    "4.85x49mm (AP)": {
+        "lead": 6,
+        "steel": 3,
+        "brass": 3,
+        "powder": 1.5
+    },
+    "4.85x49mm (HP)": {
+        "lead": 7,
+        "brass": 3,
+        "powder": 1.5
+    },
+    "4.85x49mm (AP-I)": {
+        "lead": 6,
+        "steel": 3,
+        "incendiary compound": 1.5
+    },
+    "4.85x49mm (AP-HE)": {
+        "lead": 5,
+        "steel": 3,
+        "explosive compound": 1.5
+    },
+    "4.85x49mm (Sabot)": {
+        "steel": 7,
+        "uranium": 3
+    },
+    ".50 Beowulf (FMJ)": {
+        "lead": 19,
+        "brass": 8,
+        "powder": 3.5
+    },
+    ".50 Beowulf (AP)": {
+        "lead": 17,
+        "steel": 8,
+        "brass": 8,
+        "powder": 3.5
+    },
+    ".50 Beowulf (HP)": {
+        "lead": 19,
+        "brass": 8,
+        "powder": 3.5
+    },
+    ".50 Beowulf (AP-I)": {
+        "lead": 17,
+        "steel": 8,
+        "incendiary compound": 7,
+        "brass": 8,
+        "powder": 3.5
+    },
+    ".50 Beowulf (AP-HE)": {
+        "lead": 16,
+        "steel": 8,
+        "explosive compound": 8,
+        "brass": 8,
+        "powder": 3.5
+    },
+    ".50 Beowulf (Sabot)": {
+        "steel": 19,
+        "uranium": 10,
+        "brass": 8,
+        "powder": 3.5
+    },
+    "5.45x39mm Soviet (FMJ)": {
+        "lead": 9,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "5.45x39mm Soviet (AP)": {
+        "lead": 8,
+        "steel": 3.5,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "5.45x39mm Soviet (HP)": {
+        "lead": 9,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "5.45x39mm Soviet (AP-I)": {
+        "lead": 8,
+        "steel": 3.5,
+        "incendiary compound": 3,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "5.45x39mm Soviet (AP-HE)": {
+        "lead": 7,
+        "steel": 3.5,
+        "explosive compound": 4,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "5.45x39mm Soviet (Sabot)": {
+        "steel": 9,
+        "uranium": 4,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "5.56x45mm NATO (FMJ)": {
+        "lead": 9,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "5.56x45mm NATO (AP)": {
+        "lead": 8,
+        "steel": 3.5,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "5.56x45mm NATO (HP)": {
+        "lead": 9,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "5.56x45mm NATO (AP-I)": {
+        "lead": 8,
+        "steel": 3.5,
+        "incendiary compound": 3,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "5.56x45mm NATO (AP-HE)": {
+        "lead": 7,
+        "steel": 3.5,
+        "explosive compound": 4,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "5.56x45mm NATO (Sabot)": {
+        "steel": 9,
+        "uranium": 4,
+        "brass": 3.5,
+        "powder": 1.8
+    },
+    "56-56 Spencer (FMJ)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    ".56-56 Spencer (AP)": {
+        "lead": 9,
+        "steel": 4,
+        "brass": 4,
+        "powder": 2
+    },
+    ".56-56 Spencer (HP)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    ".56-56 Spencer (AP-I)": {
+        "lead": 9,
+        "steel": 4,
+        "incendiary compound": 4,
+        "brass": 4,
+        "powder": 2
+    },
+    ".56-56 Spencer (AP-HE)": {
+        "lead": 8,
+        "steel": 4,
+        "explosive compound": 5,
+        "brass": 4,
+        "powder": 2
+    },
+    ".56-56 Spencer (Sabot)": {
+        "steel": 10,
+        "uranium": 5,
+        "brass": 4,
+        "powder": 2
+    },
+    "5.8x42mm DBP10 (FMJ)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    "5.8x42mm DBP10 (AP)": {
+        "lead": 9,
+        "steel": 4,
+        "brass": 4,
+        "powder": 2
+    },
+    "5.8x42mm DBP10 (HP)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    "5.8x42mm DBP10 (AP-I)": {
+        "lead": 9,
+        "steel": 4,
+        "incendiary compound": 4,
+        "brass": 4,
+        "powder": 2
+    },
+    "5.8x42mm DBP10 (AP-HE)": {
+        "lead": 8,
+        "steel": 4,
+        "explosive compound": 5,
+        "brass": 4,
+        "powder": 2
+    },
+    "5.8x42mm DBP10 (Sabot)": {
+        "steel": 10,
+        "uranium": 5,
+        "brass": 4,
+        "powder": 2
+    },
+    "6.5mm Creedmoor (FMJ)": {
+        "lead": 12,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "6.5mm Creedmoor (AP)": {
+        "lead": 10,
+        "steel": 5,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "6.5mm Creedmoor (HP)": {
+        "lead": 12,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "6.5mm Creedmoor (AP-I)": {
+        "lead": 10,
+        "steel": 5,
+        "incendiary compound": 4,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "6.5mm Creedmoor (AP-HE)": {
+        "lead": 9,
+        "steel": 5,
+        "explosive compound": 6,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "6.5mm Creedmoor (Sabot)": {
+        "steel": 12,
+        "uranium": 6,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "6.5x52mm Carcano (FMJ)": {
+        "lead": 12,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "6.5x52mm Carcano (AP)": {
+        "lead": 10,
+        "steel": 5,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "6.5x52mm Carcano (HP)": {
+        "lead": 12,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "6.5x52mm Carcano (AP-I)": {
+        "lead": 10,
+        "steel": 5,
+        "incendiary compound": 4,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "6.5x52mm Carcano (AP-HE)": {
+        "lead": 9,
+        "steel": 5,
+        "explosive compound": 6,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "6.5x52mm Carcano (Sabot)": {
+        "steel": 12,
+        "uranium": 6,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "6.5x50mmSR Arisaka (FMJ)": {
+        "lead": 12,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "6.5x50mmSR Arisaka (AP)": {
+        "lead": 10,
+        "steel": 5,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "6.5x50mmSR Arisaka (HP)": {
+        "lead": 12,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "6.5x50mmSR Arisaka (AP-I)": {
+        "lead": 10,
+        "steel": 5,
+        "incendiary compound": 4,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "6.5x50mmSR Arisaka (AP-HE)": {
+        "lead": 9,
+        "steel": 5,
+        "explosive compound": 6,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "6.5x50mmSR Arisaka (Sabot)": {
+        "steel": 12,
+        "uranium": 6,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "7.92x57mm Mauser (FMJ)": {
+        "lead": 15,
+        "brass": 6,
+        "powder": 3
+    },
+    "7.92x57mm Mauser (AP)": {
+        "lead": 13,
+        "steel": 6,
+        "brass": 6,
+        "powder": 3
+    },
+    "7.92x57mm Mauser (HP)": {
+        "lead": 15,
+        "brass": 6,
+        "powder": 3
+    },
+    "7.92x57mm Mauser (AP-I)": {
+        "lead": 13,
+        "steel": 6,
+        "incendiary compound": 5,
+        "brass": 6,
+        "powder": 3
+    },
+    "7.92x57mm Mauser (AP-HE)": {
+        "lead": 12,
+        "steel": 6,
+        "explosive compound": 8,
+        "brass": 6,
+        "powder": 3
+    },
+    "7.92x57mm Mauser (Sabot)": {
+        "steel": 15,
+        "uranium": 10,
+        "brass": 6,
+        "powder": 3
+    },
+    "7.5x54mm French (FMJ)": {
+        "lead": 14,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "7.5x54mm French (AP)": {
+        "lead": 12,
+        "steel": 5,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "7.5x54mm French (HP)": {
+        "lead": 14,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "7.5x54mm French (AP-I)": {
+        "lead": 12,
+        "steel": 5,
+        "incendiary compound": 4,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "7.5x54mm French (AP-HE)": {
+        "lead": 11,
+        "steel": 5,
+        "explosive compound": 6,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "7.5x54mm French (Sabot)": {
+        "steel": 14,
+        "uranium": 8,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "7.62x39mm Soviet (FMJ)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    "7.62x39mm Soviet (AP)": {
+        "lead": 9,
+        "steel": 4,
+        "brass": 4,
+        "powder": 2
+    },
+    "7.62x39mm Soviet (HP)": {
+        "lead": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    "7.62x39mm Soviet (AP-I)": {
+        "lead": 9,
+        "steel": 4,
+        "incendiary compound": 3,
+        "brass": 4,
+        "powder": 2
+    },
+    "7.62x39mm Soviet (AP-HE)": {
+        "lead": 8,
+        "steel": 4,
+        "explosive compound": 4,
+        "brass": 4,
+        "powder": 2
+    },
+    "7.62x39mm Soviet (Sabot)": {
+        "steel": 10,
+        "uranium": 5,
+        "brass": 4,
+        "powder": 2
+    },
+    "7.62x51mm NATO (FMJ)": {
+        "lead": 12,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "7.62x51mm NATO (AP)": {
+        "lead": 10,
+        "steel": 5,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "7.62x51mm NATO (HP)": {
+        "lead": 12,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "7.62x51mm NATO (AP-I)": {
+        "lead": 10,
+        "steel": 5,
+        "incendiary compound": 4,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "7.62x51mm NATO (AP-HE)": {
+        "lead": 9,
+        "steel": 5,
+        "explosive compound": 6,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "7.62x51mm NATO (Sabot)": {
+        "steel": 12,
+        "uranium": 7,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "7.62x54mmR (FMJ)": {
+        "lead": 13,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "7.62x54mmR (AP)": {
+        "lead": 11,
+        "steel": 5.5,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "7.62x54mmR (HP)": {
+        "lead": 13,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "7.62x54mmR (AP-I)": {
+        "lead": 11,
+        "steel": 5.5,
+        "incendiary compound": 5,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "7.62x54mmR (AP-HE)": {
+        "lead": 10,
+        "steel": 5.5,
+        "explosive compound": 7,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "7.62x54mmR (Sabot)": {
+        "steel": 13,
+        "uranium": 8,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "7.7x58mm Arisaka (FMJ)": {
+        "lead": 14,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "7.7x58mm Arisaka (AP)": {
+        "lead": 12,
+        "steel": 5.5,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "7.7x58mm Arisaka (HP)": {
+        "lead": 14,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "7.7x58mm Arisaka (AP-I)": {
+        "lead": 12,
+        "steel": 5.5,
+        "incendiary compound": 5,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "7.7x58mm Arisaka (AP-HE)": {
+        "lead": 11,
+        "steel": 5.5,
+        "explosive compound": 7,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "7.7x58mm Arisaka (Sabot)": {
+        "steel": 14,
+        "uranium": 8,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "7.92x33mm Kurz (FMJ)": {
+        "lead": 12,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "7.92x33mm Kurz (AP)": {
+        "lead": 11,
+        "steel": 5,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "7.92x33mm Kurz (HP)": {
+        "lead": 12,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "7.92x33mm Kurz (AP-I)": {
+        "lead": 11,
+        "steel": 5,
+        "incendiary compound": 4,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "7.92x33mm Kurz (AP-HE)": {
+        "lead": 10,
+        "steel": 5,
+        "explosive compound": 6,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "7.92x33mm Kurz (Sabot)": {
+        "steel": 12,
+        "uranium": 7,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "8.6mm Blackout (FMJ)": {
+        "lead": 12,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "8.6mm Blackout (AP)": {
+        "lead": 11,
+        "steel": 5,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "8.6mm Blackout (HP)": {
+        "lead": 12,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "8.6mm Blackout (AP-I)": {
+        "lead": 11,
+        "steel": 5,
+        "incendiary compound": 4,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "8.6mm Blackout (AP-HE)": {
+        "lead": 10,
+        "steel": 5,
+        "explosive compound": 6,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "8.6mm Blackout (Sabot)": {
+        "steel": 12,
+        "uranium": 7,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "8x50mmR Lebel (FMJ)": {
+        "lead": 14,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "8x50mmR Lebel (AP)": {
+        "lead": 12,
+        "steel": 5.5,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "8x50mmR Lebel (HP)": {
+        "lead": 14,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "8x50mmR Lebel (AP-I)": {
+        "lead": 12,
+        "steel": 5.5,
+        "incendiary compound": 5,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "8x50mmR Lebel (AP-HE)": {
+        "lead": 11,
+        "steel": 5.5,
+        "explosive compound": 7,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "8x50mmR Lebel (Sabot)": {
+        "steel": 14,
+        "uranium": 8,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "8x50mmR Mannlicher (FMJ)": {
+        "lead": 14,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "8x50mmR Mannlicher (AP)": {
+        "lead": 12,
+        "steel": 5.5,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "8x50mmR Mannlicher (HP)": {
+        "lead": 14,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "8x50mmR Mannlicher (AP-I)": {
+        "lead": 12,
+        "steel": 5.5,
+        "incendiary compound": 5,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "8x50mmR Mannlicher (AP-HE)": {
+        "lead": 11,
+        "steel": 5.5,
+        "explosive compound": 7,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "8x50mmR Mannlicher (Sabot)": {
+        "steel": 14,
+        "uranium": 8,
+        "brass": 5.5,
+        "powder": 2.8
+    },
+    "9x39mm Soviet (FMJ)": {
+        "lead": 12,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "9x39mm Soviet (AP)": {
+        "lead": 11,
+        "steel": 5,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "9x39mm Soviet (HP)": {
+        "lead": 12,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "9x39mm Soviet (AP-I)": {
+        "lead": 11,
+        "steel": 5,
+        "incendiary compound": 4,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "9x39mm Soviet (AP-HE)": {
+        "lead": 10,
+        "steel": 5,
+        "explosive compound": 6,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "9x39mm Soviet (Sabot)": {
+        "steel": 12,
+        "uranium": 7,
+        "brass": 5,
+        "powder": 2.5
+    },
+    "20mm Fliegerfaust (HE)": {
+        "steel": 30,
+        "explosive compound": 15
+    },
+    "84x246mmR cartridge (HEAT)": {
+        "steel": 110,
+        "explosive compound": 80
+    },
+    "84x246mmR cartridge (Thermobaric)": {
+        "steel": 110,
+        "explosive compound": 80
+    },
+    "84x246mmR cartridge (HE)": {
+        "steel": 110,
+        "explosive compound": 80
+    },
+    "84x246mmR cartridge (HE Time-Fuzed)": {
+        "steel": 110,
+        "explosive compound": 80
+    },
+    "84x246mmR cartridge (HEDP)": {
+        "steel": 110,
+        "explosive compound": 80
+    },
+    "84x246mmR cartridge (Frag)": {
+        "steel": 110,
+        "explosive compound": 80
+    },
+    "84x246mmR cartridge (CAN)": {
+        "steel": 110,
+        "explosive compound": 80
+    },
+    "84x246mmR cartridge (Incendiary)": {
+        "steel": 110,
+        "incendiary compound": 70
+    },
+    "84x246mmR cartridge (Smoke)": {
+        "steel": 110,
+        "smoke compound": 70
+    },
+    "90mm recoilless cartridge (HEAT)": {
+        "steel": 130,
+        "explosive compound": 100
+    },
+    "90mm recoilless cartridge (CAN)": {
+        "steel": 130,
+        "explosive compound": 100
+    },
+    "RPG-32 grenade (HEAT)": {
+        "steel": 150,
+        "explosive compound": 120
+    },
+    "RPG-32 grenade (Thermobaric)": {
+        "steel": 150,
+        "explosive compound": 120
+    },
+    "RPG-7 grenade (HEAT)": {
+        "steel": 150,
+        "explosive compound": 120
+    },
+    "RPG-7 grenade (Thermobaric)": {
+        "steel": 150,
+        "explosive compound": 120
+    },
+    "RPG-7 grenade (Frag)": {
+        "steel": 150,
+        "explosive compound": 120
+    },
+    "100x695mmR cannon shell (HEAT)": {
+        "steel": 200,
+        "explosive compound": 150
+    },
+    "100x695mmR cannon shell (HE)": {
+        "steel": 200,
+        "explosive compound": 150
+    },
+    "105mm Howitzer shell (HE)": {
+        "steel": 220,
+        "explosive compound": 170
+    },
+    "105mm Howitzer shell (Airburst)": {
+        "steel": 220,
+        "explosive compound": 170
+    },
+    "105mm Howitzer shell (HEAT)": {
+        "steel": 220,
+        "explosive compound": 170
+    },
+    "105mm Howitzer shell (Incendiary)": {
+        "steel": 220,
+        "incendiary compound": 150
+    },
+    "105mm Howitzer shell (Smoke)": {
+        "steel": 220,
+        "smoke compound": 150
+    },
+    "105x607mmR shell (HEAT)": {
+        "steel": 220,
+        "explosive compound": 170
+    },
+    "105x607mmR shell (HE)": {
+        "steel": 220,
+        "explosive compound": 170
+    },
+    "105x617mmR cannon shell (HEAT)": {
+        "steel": 220,
+        "explosive compound": 170
+    },
+    "105x617mmR cannon shell (HE)": {
+        "steel": 220,
+        "explosive compound": 170
+    },
+    "120mm cannon shell (HEAT)": {
+        "steel": 240,
+        "explosive compound": 190
+    },
+    "120mm cannon shell (HE)": {
+        "steel": 240,
+        "explosive compound": 190
+    },
+    "155mm Howitzer shell (HE)": {
+        "steel": 300,
+        "explosive compound": 250
+    },
+    "155mm Howitzer shell (Airburst)": {
+        "steel": 300,
+        "explosive compound": 250
+    },
+    "155mm Howitzer shell (Incendiary)": {
+        "steel": 300,
+        "incendiary compound": 200
+    },
+    "155mm Howitzer shell (Smoke)": {
+        "steel": 300,
+        "smoke compound": 200
+    },
+    "28cm Spgr. cannon shell (HE)": {
+        "steel": 400,
+        "explosive compound": 350
+    },
+    "37x223mmR cannon shell (AP)": {
+        "lead": 50,
+        "steel": 100,
+        "brass": 40,
+        "powder": 20
+    },
+    "37x223mmR cannon shell (HE)": {
+        "lead": 50,
+        "steel": 100,
+        "explosive compound": 60,
+        "brass": 40,
+        "powder": 20
+    },
+    "40x365mm Bofors cartridge (AP)": {
+        "lead": 120,
+        "steel": 250,
+        "brass": 100,
+        "powder": 50
+    },
+    "40x365mm Bofors cartridge (HE)": {
+        "lead": 120,
+        "steel": 250,
+        "explosive compound": 130,
+        "brass": 100,
+        "powder": 50
+    },
+    "50mm type 89 mortar shell (HE)": {
+        "steel": 130,
+        "explosive compound": 100
+    },
+    "50mm type 89 mortar shell (Incendiary)": {
+        "steel": 130,
+        "incendiary compound": 90
+    },
+    "50mm type 89 mortar shell (Smoke)": {
+        "steel": 130,
+        "smoke compound": 90
+    },
+    "57x307mmR cartridge (AP)": {
+        "lead": 140,
+        "steel": 300,
+        "brass": 120,
+        "powder": 60
+    },
+    "57x307mmR cartridge (HE)": {
+        "lead": 140,
+        "steel": 300,
+        "explosive compound": 150,
+        "brass": 120,
+        "powder": 60
+    },
+    "57x438mm Bofors cartridge (AP)": {
+        "lead": 180,
+        "steel": 400,
+        "brass": 160,
+        "powder": 80
+    },
+    "57x438mm Bofors cartridge (HE)": {
+        "lead": 180,
+        "steel": 400,
+        "explosive compound": 200,
+        "brass": 160,
+        "powder": 80
+    },
+    "60mm mortar shell (HE)": {
+        "steel": 150,
+        "explosive compound": 120
+    },
+    "60mm mortar shell (Incendiary)": {
+        "steel": 150,
+        "incendiary compound": 110
+    },
+    "60mm mortar shell (Foam)": {
+        "steel": 150,
+        "firefoam compound": 100
+    },
+    "60mm mortar shell (Smoke)": {
+        "steel": 150,
+        "smoke compound": 110
+    },
+    "75x350mmR cannon shell (AP)": {
+        "lead": 200,
+        "steel": 450,
+        "brass": 180,
+        "powder": 90
+    },
+    "75x350mmR cannon shell (HE)": {
+        "lead": 200,
+        "steel": 450,
+        "explosive compound": 220,
+        "brass": 180,
+        "powder": 90
+    },
+    "76.2x385mmR cannon shell (HEAT)": {
+        "lead": 220,
+        "steel": 500,
+        "explosive compound": 250,
+        "brass": 200,
+        "powder": 100
+    },
+    "76.2x385mmR cannon shell (AP)": {
+        "lead": 220,
+        "steel": 500,
+        "brass": 200,
+        "powder": 100
+    },
+    "76.2x385mmR cannon shell (HE)": {
+        "lead": 220,
+        "steel": 500,
+        "explosive compound": 250,
+        "brass": 200,
+        "powder": 100
+    },
+    "76.2x539mmR cannon shell (AP)": {
+        "lead": 250,
+        "steel": 550,
+        "brass": 220,
+        "powder": 110
+    },
+    "76.2x539mmR cannon shell (HE)": {
+        "lead": 250,
+        "steel": 550,
+        "explosive compound": 280,
+        "brass": 220,
+        "powder": 110
+    },
+    "81mm mortar shell (HE)": {
+        "steel": 180,
+        "explosive compound": 150
+    },
+    "81mm mortar shell (Airburst)": {
+        "steel": 180,
+        "explosive compound": 150
+    },
+    "81mm mortar shell (Incendiary)": {
+        "steel": 180,
+        "incendiary compound": 130
+    },
+    "81mm mortar shell (Foam)": {
+        "steel": 180,
+        "firefoam compound": 120
+    },
+    "81mm mortar shell (Smoke)": {
+        "steel": 180,
+        "smoke compound": 130
+    },
+    "81mm mortar shell (Anti)": {
+        "steel": 180,
+        "explosive compound": 150
+    },
+    "90mm cannon shell (HEAT)": {
+        "lead": 300,
+        "steel": 650,
+        "explosive compound": 320,
+        "brass": 260,
+        "powder": 130
+    },
+    "90mm cannon shell (AP)": {
+        "lead": 300,
+        "steel": 650,
+        "brass": 260,
+        "powder": 130
+    },
+    "90mm cannon shell (HE)": {
+        "lead": 300,
+        "steel": 650,
+        "explosive compound": 320,
+        "brass": 260,
+        "powder": 130
+    },
+    "90mm cannon shell (HE Time-Fuzed)": {
+        "lead": 300,
+        "steel": 650,
+        "explosive compound": 320,
+        "brass": 260,
+        "powder": 130
+    },
+    "10 gauge shell (Buck)": {
+        "lead": 15,
+        "steel": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    "10 gauge shell (Slug)": {
+        "lead": 15,
+        "steel": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    "10 gauge shell (Bean)": {
+        "lead": 15,
+        "steel": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    "12 gauge shell (Buck)": {
+        "lead": 10,
+        "steel": 8,
+        "brass": 3,
+        "powder": 1.5
+    },
+    "12 gauge shell (Slug)": {
+        "lead": 10,
+        "steel": 8,
+        "brass": 3,
+        "powder": 1.5
+    },
+    "12 gauge shell (Bean)": {
+        "lead": 10,
+        "steel": 8,
+        "brass": 3,
+        "powder": 1.5
+    },
+    "16 gauge shell (Buck)": {
+        "lead": 8,
+        "steel": 6,
+        "brass": 2.5,
+        "powder": 1.2
+    },
+    "16 gauge shell (Slug)": {
+        "lead": 8,
+        "steel": 6,
+        "brass": 2.5,
+        "powder": 1.2
+    },
+    "16 gauge shell (Bean)": {
+        "lead": 8,
+        "steel": 6,
+        "brass": 2.5,
+        "powder": 1.2
+    },
+    "20 gauge shell (Buck)": {
+        "lead": 6,
+        "steel": 5,
+        "brass": 2,
+        "powder": 1
+    },
+    "20 gauge shell (Slug)": {
+        "lead": 6,
+        "steel": 5,
+        "brass": 2,
+        "powder": 1
+    },
+    "20 gauge shell (Bean)": {
+        "lead": 6,
+        "steel": 5,
+        "brass": 2,
+        "powder": 1
+    },
+    "23x75mmR shell (Buck)": {
+        "lead": 12,
+        "steel": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    "23x75mmR shell (Slug)": {
+        "lead": 12,
+        "steel": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    "23x75mmR shell (Bean)": {
+        "lead": 12,
+        "steel": 10,
+        "brass": 4,
+        "powder": 2
+    },
+    ".410 Bore shell (Buck)": {
+        "lead": 5,
+        "steel": 4,
+        "brass": 1.5,
+        "powder": 0.8
+    },
+    ".410 Bore shell (Slug)": {
+        "lead": 5,
+        "steel": 4,
+        "brass": 1.5,
+        "powder": 0.8
+    },
+    ".410 Bore shell (Bean)": {
+        "lead": 5,
+        "steel": 4,
+        "brass": 1.5,
+        "powder": 0.8
+    },
+    "concussion grenade": {
+        "steel": 100,
+        "explosive compound": 50
+    },
+    "flashbang grenade": {
+        "steel": 100,
+        "explosive compound": 50
+    },
+    "smoke grenade": {
+        "steel": 100,
+        "smoke compound": 50
+    }
+}

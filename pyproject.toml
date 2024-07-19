@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "ammo-is-complicated"
+version = "0.1.0"
+description = "Builder for ammo is complicated rimworld mod"
+authors = ["Natalia Borovskikh <lai.tash@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+rimworld = "^0.3.3"
+gitpython = "^3.1.43"
+click = "^8.1.7"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.4.2"
+pylint = "^3.2.5"
+isort = "^5.13.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pylint]
+extension-pkg-allow-list = ["lxml"]
+disable = [
+    "missing-function-docstring",
+    "missing-module-docstring",
+    "line-too-long",
+    'missing-class-docstring',
+]
+init-hook='import sys; sys.path.append("./")'
+
