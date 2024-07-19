@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ammo-is-complicated"
+name = "script"
 version = "0.1.0"
 description = "Builder for ammo is complicated rimworld mod"
 authors = ["Natalia Borovskikh <lai.tash@gmail.com>"]
