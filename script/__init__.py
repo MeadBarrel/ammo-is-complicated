@@ -79,7 +79,7 @@ def build():
 
     # Clone Combat Extended
     Repo.clone_from(
-        "git@github.com:CombatExtended-Continued/CombatExtended.git", CE_FOLDER
+        "https://github.com/CombatExtended-Continued/CombatExtended.git", CE_FOLDER
     )
 
     ce_tree = etree.ElementTree(etree.Element("Defs"))
