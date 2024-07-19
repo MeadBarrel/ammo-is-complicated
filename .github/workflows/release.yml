@@ -49,7 +49,7 @@ jobs:
         prerelease: false
 
     - name: Archive release folder
-      run: zip -r release-${{ env.TAG_NAME }}.zip release-${{ env.TAG_NAME }}
+      run: zip -r ammoiscomplicated-${{ env.TAG_NAME }}.zip ammoiscomplicated-${{ env.TAG_NAME }}
 
     - name: Upload Release Asset
       uses: actions/upload-release-asset@v1
