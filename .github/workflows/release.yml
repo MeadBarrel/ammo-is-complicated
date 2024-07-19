@@ -34,6 +34,9 @@ jobs:
       id: extract_tag
       run: echo "TAG_NAME=${GITHUB_REF#refs/tags/}" >> $GITHUB_ENV
 
+    - name: Rename release folder
+      run: mv release renamed_release  # Replace 'renamed_release' with the desired name
+
     - name: Create GitHub Release
       id: create_release
       uses: actions/create-release@v1
@@ -46,8 +49,7 @@ jobs:
         prerelease: false
 
     - name: Archive release folder
-      run: |
-        zip -r release.zip release
+      run: zip -r renamed_release.zip renamed_release  # Adjust the folder name accordingly
 
     - name: Upload Release Asset
       uses: actions/upload-release-asset@v1
@@ -55,8 +57,8 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./release.zip
-        asset_name: release.zip
+        asset_path: ./renamed_release.zip  # Adjust the file name accordingly
+        asset_name: renamed_release.zip  # Adjust the file name accordingly
         asset_content_type: application/zip
 
 
