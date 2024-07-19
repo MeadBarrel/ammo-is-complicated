@@ -1,0 +1,64 @@
+<Patch>
+    <Operation Class="XmlExtensions.OptionalPatch">
+        <modId>tashka.complexammo</modId>
+        <key>production_amt_modifier_enabled</key>
+        <defaultValue>false</defaultValue>
+        <caseTrue>
+            <Operation Class="XmlExtensions.UseSetting">
+                <modId>tashka.complexammo</modId>    
+                <key>production_amt_modifier</key>
+                <apply>
+                    <Operation Class="XmlExtensions.ForEachDescendant">
+                        <xpathParent>/Defs/RecipeDef[@Name="AmmoRecipeBase"]</xpathParent>
+                        <concreteOnly>true</concreteOnly>
+                        <storeIn>recipe_def</storeIn>
+                        <apply>
+                            <Operation Class="PatchOperationConditional">
+                                <xpath>{recipe_def}/products/*</xpath>
+                                <match Class="XmlExtensions.ForEach">
+                                    <xpath>{recipe_def}/products/*</xpath>
+                                    <storeIn>product_xpath</storeIn>
+                                    <prefixLength>4</prefixLength>
+                                    <apply>
+                                        <Operation Class="XmlExtensions.AggregateValues">
+                                            <valueOperations>
+                                                <Operation Class="XmlExtensions.CreateVariable">
+                                                    <storeIn>original_number</storeIn>
+                                                    <value>{product_xpath}</value>
+                                                    <fromXml>true</fromXml>
+                                                </Operation>
+                                                <Operation Class="XmlExtensions.CreateVariable">
+                                                    <storeIn>new_number</storeIn>
+                                                    <value>{original_number}</value>
+                                                    <value2>{production_amt_modifier}</value2>
+                                                    <operation>*</operation>
+                                                </Operation>
+                                                <Operation Class="XmlExtensions.CreateVariable">
+                                                    <storeIn>new_number_rounded</storeIn>
+                                                    <value>{new_number}</value>
+                                                    <operation>roundnearest</operation>
+                                                </Operation>
+                                                <Operation Class="XmlExtensions.CreateVariable">
+                                                    <storeIn>new_number_clamped</storeIn>
+                                                    <value>{new_number_rounded}</value>
+                                                    <value2>1</value2>
+                                                    <operation>max</operation>
+                                                </Operation>
+                                            </valueOperations>
+                                            <apply>
+                                                <Operation Class="PatchOperationReplace">
+                                                    <xpath>{product_xpath}/text()</xpath>
+                                                    <value>{new_number_clamped}</value>
+                                                </Operation>
+                                            </apply>
+                                        </Operation>
+                                    </apply>
+                                </match>
+                            </Operation>
+                        </apply>
+                    </Operation>
+                </apply>
+            </Operation>
+        </caseTrue>
+    </Operation>
+</Patch>

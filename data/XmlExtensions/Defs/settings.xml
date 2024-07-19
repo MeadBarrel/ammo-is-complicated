@@ -1,0 +1,22 @@
+<Defs>
+    <XmlExtensions.SettingsMenuDef>
+        <defName>tashka_complexammo_settings</defName>
+        <modId>tashka.complexammo</modId>
+        <label>Ammo is Complicated</label>
+        <settings>
+            <li Class="XmlExtensions.Setting.Slider">
+                <key>production_amt_modifier</key>
+                <label>Production amount modifier: {production_amt_modifier}</label>
+                <defaultValue>1.0</defaultValue>
+                <min>0.02</min>
+                <max>2</max>
+                <decimals>2</decimals>
+            </li>
+            <li Class="XmlExtensions.Setting.Checkbox">
+                <key>production_amt_modifier_enabled</key>
+                <label>Production amount modifier enabled</label>
+                <defaultValue>false</defaultValue>
+            </li>
+        </settings>
+    </XmlExtensions.SettingsMenuDef>
+</Defs>

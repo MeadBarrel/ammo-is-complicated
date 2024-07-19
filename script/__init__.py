@@ -40,6 +40,7 @@ def build():
             "hol.dfore",
             "mlie.cuprosalloys",
             "argon.vmeu",
+            "imranfish.xmlextensions",
         ],
     )
     about.to_xml().write(
@@ -62,6 +63,10 @@ def build():
                     if_mod_active="argon.vmeu",
                     path=Path("Mods", "ExpandedMaterialsMetals"),
                 ),
+                LoadFolder(
+                    if_mod_active="imranfish.xmlextensions",
+                    path=Path("Mods", "XmlExtensions"),
+                ),
             ],
         }
     )
@@ -75,6 +80,11 @@ def build():
     shutil.copy(
         DATA_FOLDER.joinpath("Preview.png"),
         RELEASE_FOLDER.joinpath("About", "Preview.png"),
+    )
+
+    shutil.copytree(
+        DATA_FOLDER.joinpath("XmlExtensions"),
+        RELEASE_FOLDER.joinpath("Mods", "XmlExtensions"),
     )
 
     # Clone Combat Extended
