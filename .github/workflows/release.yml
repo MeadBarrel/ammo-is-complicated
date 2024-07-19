@@ -4,6 +4,7 @@ on:
   push:
     tags:
       - 'v*.*.*'  # This triggers the workflow for version tags like v1.0.0
+  workflow_dispatch:  # This allows manual triggering
 
 jobs:
   build:
@@ -21,18 +22,11 @@ jobs:
       with:
         python-version: 3.12
 
-    - name: Install Poetry
-      run: |
-        curl -sSL https://install.python-poetry.org | python3 -
-        echo "::add-path::${HOME}/.local/bin"
-        poetry config virtualenvs.in-project true
-
     - name: Install dependencies
-      run: poetry install
+      run: pip install .
 
-    - name: Activate Poetry shell and build
+    - name: Build
       run: |
-        poetry shell
         python main.py build
       shell: bash
 
