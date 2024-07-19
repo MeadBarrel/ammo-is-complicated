@@ -45,14 +45,18 @@ jobs:
         draft: false
         prerelease: false
 
-    - name: Upload Release Assets
+    - name: Archive release folder
+      run: |
+        zip -r release.zip release
+
+    - name: Upload Release Asset
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./release
-        asset_name: release
+        asset_path: ./release.zip
+        asset_name: release.zip
         asset_content_type: application/zip
 
 
